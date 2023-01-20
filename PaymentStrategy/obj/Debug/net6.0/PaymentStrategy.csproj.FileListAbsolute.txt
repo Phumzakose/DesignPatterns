@@ -1,0 +1,15 @@
+/home/codex/c#projects/PaymentStrategy/bin/Debug/net6.0/PaymentStrategy
+/home/codex/c#projects/PaymentStrategy/bin/Debug/net6.0/PaymentStrategy.deps.json
+/home/codex/c#projects/PaymentStrategy/bin/Debug/net6.0/PaymentStrategy.runtimeconfig.json
+/home/codex/c#projects/PaymentStrategy/bin/Debug/net6.0/PaymentStrategy.dll
+/home/codex/c#projects/PaymentStrategy/bin/Debug/net6.0/PaymentStrategy.pdb
+/home/codex/c#projects/PaymentStrategy/obj/Debug/net6.0/PaymentStrategy.csproj.AssemblyReference.cache
+/home/codex/c#projects/PaymentStrategy/obj/Debug/net6.0/PaymentStrategy.GeneratedMSBuildEditorConfig.editorconfig
+/home/codex/c#projects/PaymentStrategy/obj/Debug/net6.0/PaymentStrategy.AssemblyInfoInputs.cache
+/home/codex/c#projects/PaymentStrategy/obj/Debug/net6.0/PaymentStrategy.AssemblyInfo.cs
+/home/codex/c#projects/PaymentStrategy/obj/Debug/net6.0/PaymentStrategy.csproj.CoreCompileInputs.cache
+/home/codex/c#projects/PaymentStrategy/obj/Debug/net6.0/PaymentStrategy.dll
+/home/codex/c#projects/PaymentStrategy/obj/Debug/net6.0/refint/PaymentStrategy.dll
+/home/codex/c#projects/PaymentStrategy/obj/Debug/net6.0/PaymentStrategy.pdb
+/home/codex/c#projects/PaymentStrategy/obj/Debug/net6.0/PaymentStrategy.genruntimeconfig.cache
+/home/codex/c#projects/PaymentStrategy/obj/Debug/net6.0/ref/PaymentStrategy.dll

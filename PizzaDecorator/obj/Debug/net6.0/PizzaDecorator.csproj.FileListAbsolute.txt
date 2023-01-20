@@ -1,0 +1,15 @@
+/home/codex/c#projects/PizzaDecorator/bin/Debug/net6.0/PizzaDecorator
+/home/codex/c#projects/PizzaDecorator/bin/Debug/net6.0/PizzaDecorator.deps.json
+/home/codex/c#projects/PizzaDecorator/bin/Debug/net6.0/PizzaDecorator.runtimeconfig.json
+/home/codex/c#projects/PizzaDecorator/bin/Debug/net6.0/PizzaDecorator.dll
+/home/codex/c#projects/PizzaDecorator/bin/Debug/net6.0/PizzaDecorator.pdb
+/home/codex/c#projects/PizzaDecorator/obj/Debug/net6.0/PizzaDecorator.csproj.AssemblyReference.cache
+/home/codex/c#projects/PizzaDecorator/obj/Debug/net6.0/PizzaDecorator.GeneratedMSBuildEditorConfig.editorconfig
+/home/codex/c#projects/PizzaDecorator/obj/Debug/net6.0/PizzaDecorator.AssemblyInfoInputs.cache
+/home/codex/c#projects/PizzaDecorator/obj/Debug/net6.0/PizzaDecorator.AssemblyInfo.cs
+/home/codex/c#projects/PizzaDecorator/obj/Debug/net6.0/PizzaDecorator.csproj.CoreCompileInputs.cache
+/home/codex/c#projects/PizzaDecorator/obj/Debug/net6.0/PizzaDecorator.dll
+/home/codex/c#projects/PizzaDecorator/obj/Debug/net6.0/refint/PizzaDecorator.dll
+/home/codex/c#projects/PizzaDecorator/obj/Debug/net6.0/PizzaDecorator.pdb
+/home/codex/c#projects/PizzaDecorator/obj/Debug/net6.0/PizzaDecorator.genruntimeconfig.cache
+/home/codex/c#projects/PizzaDecorator/obj/Debug/net6.0/ref/PizzaDecorator.dll

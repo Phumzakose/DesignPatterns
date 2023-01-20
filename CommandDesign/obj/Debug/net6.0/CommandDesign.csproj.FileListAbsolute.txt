@@ -1,0 +1,15 @@
+/home/codex/c#projects/CommandDesign/bin/Debug/net6.0/CommandDesign
+/home/codex/c#projects/CommandDesign/bin/Debug/net6.0/CommandDesign.deps.json
+/home/codex/c#projects/CommandDesign/bin/Debug/net6.0/CommandDesign.runtimeconfig.json
+/home/codex/c#projects/CommandDesign/bin/Debug/net6.0/CommandDesign.dll
+/home/codex/c#projects/CommandDesign/bin/Debug/net6.0/CommandDesign.pdb
+/home/codex/c#projects/CommandDesign/obj/Debug/net6.0/CommandDesign.csproj.AssemblyReference.cache
+/home/codex/c#projects/CommandDesign/obj/Debug/net6.0/CommandDesign.GeneratedMSBuildEditorConfig.editorconfig
+/home/codex/c#projects/CommandDesign/obj/Debug/net6.0/CommandDesign.AssemblyInfoInputs.cache
+/home/codex/c#projects/CommandDesign/obj/Debug/net6.0/CommandDesign.AssemblyInfo.cs
+/home/codex/c#projects/CommandDesign/obj/Debug/net6.0/CommandDesign.csproj.CoreCompileInputs.cache
+/home/codex/c#projects/CommandDesign/obj/Debug/net6.0/CommandDesign.dll
+/home/codex/c#projects/CommandDesign/obj/Debug/net6.0/refint/CommandDesign.dll
+/home/codex/c#projects/CommandDesign/obj/Debug/net6.0/CommandDesign.pdb
+/home/codex/c#projects/CommandDesign/obj/Debug/net6.0/CommandDesign.genruntimeconfig.cache
+/home/codex/c#projects/CommandDesign/obj/Debug/net6.0/ref/CommandDesign.dll

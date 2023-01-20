@@ -1,0 +1,15 @@
+/home/codex/c#projects/VisitorDesignPattern/bin/Debug/net6.0/VisitorDesignPattern
+/home/codex/c#projects/VisitorDesignPattern/bin/Debug/net6.0/VisitorDesignPattern.deps.json
+/home/codex/c#projects/VisitorDesignPattern/bin/Debug/net6.0/VisitorDesignPattern.runtimeconfig.json
+/home/codex/c#projects/VisitorDesignPattern/bin/Debug/net6.0/VisitorDesignPattern.dll
+/home/codex/c#projects/VisitorDesignPattern/bin/Debug/net6.0/VisitorDesignPattern.pdb
+/home/codex/c#projects/VisitorDesignPattern/obj/Debug/net6.0/VisitorDesignPattern.csproj.AssemblyReference.cache
+/home/codex/c#projects/VisitorDesignPattern/obj/Debug/net6.0/VisitorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/codex/c#projects/VisitorDesignPattern/obj/Debug/net6.0/VisitorDesignPattern.AssemblyInfoInputs.cache
+/home/codex/c#projects/VisitorDesignPattern/obj/Debug/net6.0/VisitorDesignPattern.AssemblyInfo.cs
+/home/codex/c#projects/VisitorDesignPattern/obj/Debug/net6.0/VisitorDesignPattern.csproj.CoreCompileInputs.cache
+/home/codex/c#projects/VisitorDesignPattern/obj/Debug/net6.0/VisitorDesignPattern.dll
+/home/codex/c#projects/VisitorDesignPattern/obj/Debug/net6.0/refint/VisitorDesignPattern.dll
+/home/codex/c#projects/VisitorDesignPattern/obj/Debug/net6.0/VisitorDesignPattern.pdb
+/home/codex/c#projects/VisitorDesignPattern/obj/Debug/net6.0/VisitorDesignPattern.genruntimeconfig.cache
+/home/codex/c#projects/VisitorDesignPattern/obj/Debug/net6.0/ref/VisitorDesignPattern.dll

@@ -1,0 +1,15 @@
+/home/codex/c#projects/StrategyPattern/bin/Debug/net6.0/StrategyPattern
+/home/codex/c#projects/StrategyPattern/bin/Debug/net6.0/StrategyPattern.deps.json
+/home/codex/c#projects/StrategyPattern/bin/Debug/net6.0/StrategyPattern.runtimeconfig.json
+/home/codex/c#projects/StrategyPattern/bin/Debug/net6.0/StrategyPattern.dll
+/home/codex/c#projects/StrategyPattern/bin/Debug/net6.0/StrategyPattern.pdb
+/home/codex/c#projects/StrategyPattern/obj/Debug/net6.0/StrategyPattern.csproj.AssemblyReference.cache
+/home/codex/c#projects/StrategyPattern/obj/Debug/net6.0/StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/codex/c#projects/StrategyPattern/obj/Debug/net6.0/StrategyPattern.AssemblyInfoInputs.cache
+/home/codex/c#projects/StrategyPattern/obj/Debug/net6.0/StrategyPattern.AssemblyInfo.cs
+/home/codex/c#projects/StrategyPattern/obj/Debug/net6.0/StrategyPattern.csproj.CoreCompileInputs.cache
+/home/codex/c#projects/StrategyPattern/obj/Debug/net6.0/StrategyPattern.dll
+/home/codex/c#projects/StrategyPattern/obj/Debug/net6.0/refint/StrategyPattern.dll
+/home/codex/c#projects/StrategyPattern/obj/Debug/net6.0/StrategyPattern.pdb
+/home/codex/c#projects/StrategyPattern/obj/Debug/net6.0/StrategyPattern.genruntimeconfig.cache
+/home/codex/c#projects/StrategyPattern/obj/Debug/net6.0/ref/StrategyPattern.dll
